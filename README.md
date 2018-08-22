@@ -1,2 +1,2 @@
 # hello-world
-This is my very first repository and I'm super excited to get fully immersed into coding
+My name's Vanessa and I'm just starting out at coding! So far my first steps have been great and coding has been so much fun! Can't wait to get to know wayway more...
